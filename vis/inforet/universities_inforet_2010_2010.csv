@@ -1,0 +1,43 @@
+rank,Uni,count,n_faculty
+1,Univ. of Illinois at Urbana-Champaign,3.4,3
+2,Cornell University,2.2,4
+3,Purdue University,2.1,2
+4,Massachusetts Institute of Technology,2.0,3
+4,Rutgers University,2.0,2
+4,University of Michigan,2.0,3
+4,University of Washington,2.0,3
+8,Brown University,1.8,1
+8,University of Delaware,1.8,1
+8,University of Massachusetts Amherst,1.8,1
+8,University of Waterloo,1.8,2
+12,New York University,1.7,2
+12,Univ. of California - Santa Barbara,1.7,2
+14,California Institute of Technology,1.5,1
+14,Carnegie Mellon University,1.5,1
+14,Emory University,1.5,1
+14,Lehigh University,1.5,1
+14,Ohio State University,1.5,1
+14,Pennsylvania State University,1.5,2
+14,Rensselaer Polytechnic Institute,1.5,2
+14,Univ. of California - Santa Cruz,1.5,1
+14,University of Texas at Dallas,1.5,1
+14,Wayne State University,1.5,1
+24,Northeastern University,1.4,2
+24,Simon Fraser University,1.4,1
+24,University of Texas at Arlington,1.4,2
+27,Georgetown University,1.3,1
+27,Georgia Institute of Technology,1.3,1
+27,Kansas State University,1.3,1
+27,Princeton University,1.3,1
+27,Rice University,1.3,1
+27,Stony Brook University,1.3,1
+27,Texas A&M University,1.3,1
+27,Univ. of California - Berkeley,1.3,1
+27,University of Alberta,1.3,1
+27,University of Chicago,1.3,2
+27,University of Colorado Boulder,1.3,1
+27,University of Illinois at Chicago,1.3,1
+27,University of North Carolina,1.3,1
+27,University of Notre Dame,1.3,1
+27,University of Pennsylvania,1.3,1
+27,Worcester Polytechnic Institute,1.3,1

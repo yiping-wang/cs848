@@ -1,0 +1,34 @@
+rank,Uni,count,n_faculty
+1,Johns Hopkins University,6.4,5
+2,University of Pennsylvania,6.1,6
+3,University of Maryland - College Park,4.8,4
+4,University of Washington,4.6,3
+5,Stanford University,4.4,3
+6,University of Texas at Dallas,3.5,3
+7,Cornell University,3.0,5
+8,Carnegie Mellon University,2.8,5
+8,University of Colorado Boulder,2.8,2
+10,Northeastern University,2.7,2
+11,Massachusetts Institute of Technology,2.5,1
+11,Pennsylvania State University,2.5,2
+13,George Washington University,2.3,1
+13,Georgetown University,2.3,2
+13,University of Massachusetts Amherst,2.3,1
+13,University of Texas at Austin,2.3,3
+17,University of Illinois at Chicago,2.2,2
+18,Yale University,2.1,1
+19,Brandeis University,2.0,1
+19,Simon Fraser University,2.0,2
+19,TTI Chicago,2.0,2
+19,University of Arizona,2.0,3
+19,University of Houston,2.0,1
+19,University of Michigan,2.0,2
+19,University of Ottawa,2.0,2
+19,University of Toronto,2.0,1
+27,Columbia University,1.8,2
+27,University of North Carolina,1.8,1
+29,Oregon State University,1.7,1
+29,Univ. of California - Irvine,1.7,1
+29,Univ. of California - San Diego,1.7,2
+29,University of British Columbia,1.7,2
+29,University of Utah,1.7,1

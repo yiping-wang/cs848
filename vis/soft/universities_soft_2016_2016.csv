@@ -1,0 +1,36 @@
+rank,Uni,count,n_faculty
+1,Carnegie Mellon University,4.1,8
+2,Purdue University,3.7,3
+3,Massachusetts Institute of Technology,3.3,3
+4,George Mason University,3.0,7
+4,University of Southern California,3.0,5
+6,Texas A&M University,2.5,1
+6,Univ. of California - Irvine,2.5,4
+6,University of British Columbia,2.5,3
+6,University of Waterloo,2.5,4
+10,Queen’s University,2.1,2
+11,Concordia University,2.0,4
+11,McGill University,2.0,1
+11,Rutgers University,2.0,2
+11,Univ. of Illinois at Urbana-Champaign,2.0,2
+15,Iowa State University,1.9,2
+15,Northern Arizona University,1.9,3
+15,Univ. of California - Davis,1.9,3
+18,Univ. of California - San Diego,1.8,3
+18,University of Virginia,1.8,3
+20,Columbia University,1.7,4
+20,University of Chicago,1.7,2
+20,University of Cincinnati,1.7,2
+20,University of Nebraska,1.7,1
+20,University of Texas at Dallas,1.7,4
+20,University of Toronto,1.7,2
+26,College of William and Mary,1.6,2
+26,Drexel University,1.6,1
+26,Oregon State University,1.6,3
+26,University of Tennessee,1.6,1
+30,Stony Brook University,1.5,1
+30,Univ. of California - Los Angeles,1.5,2
+30,University of Calgary,1.5,1
+30,University of Colorado Boulder,1.5,1
+30,University of Vermont,1.5,1
+30,University of Victoria,1.5,2

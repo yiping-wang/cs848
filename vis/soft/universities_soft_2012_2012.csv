@@ -1,0 +1,36 @@
+rank,Uni,count,n_faculty
+1,Univ. of California - Irvine,4.2,3
+2,Univ. of California - Los Angeles,3.0,3
+3,Univ. of Illinois at Urbana-Champaign,2.9,6
+4,North Carolina State University,2.5,4
+4,Virginia Tech,2.5,2
+6,University of Michigan,2.4,3
+7,McGill University,2.3,1
+7,University of Notre Dame,2.3,2
+7,University of Virginia,2.3,2
+10,University of Toronto,2.1,4
+11,Carnegie Mellon University,2.0,4
+11,Rensselaer Polytechnic Institute,2.0,1
+11,Univ. of California - San Diego,2.0,3
+14,Arizona State University,1.9,2
+14,Massachusetts Institute of Technology,1.9,3
+14,Univ. of California - Davis,1.9,2
+17,College of William and Mary,1.8,1
+17,Columbia University,1.8,1
+17,Georgia Institute of Technology,1.8,1
+17,Queen’s University,1.8,3
+17,University of British Columbia,1.8,2
+17,University of Calgary,1.8,1
+17,University of Illinois at Chicago,1.8,1
+24,Rochester Institute of Technology,1.6,1
+24,University of Texas at Dallas,1.6,1
+26,George Mason University,1.5,2
+26,Purdue University,1.5,1
+26,University of Colorado Boulder,1.5,1
+26,University of Missouri - Kansas City,1.5,1
+26,University of Nebraska - Omaha,1.5,1
+26,University of Tennessee,1.5,1
+26,University of Texas at San Antonio,1.5,1
+26,University of Vermont,1.5,1
+26,University of Washington,1.5,1
+26,Western University,1.5,1

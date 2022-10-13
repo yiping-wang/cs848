@@ -1,0 +1,36 @@
+rank,Uni,count,n_faculty
+1,Carnegie Mellon University,6.7,10
+2,Georgia Institute of Technology,4.3,9
+3,Indiana University,3.9,6
+4,Cornell University,3.6,4
+4,Univ. of Illinois at Urbana-Champaign,3.6,9
+6,University of Waterloo,3.4,6
+7,University of Wisconsin - Madison,3.2,4
+8,Northeastern University,3.1,7
+9,University of Michigan,3.0,3
+10,Purdue University,2.8,7
+11,University of Maryland - College Park,2.7,5
+12,Columbia University,2.6,6
+13,New York University,2.4,3
+13,Stanford University,2.4,3
+13,Univ. of California - Berkeley,2.4,2
+16,Princeton University,2.3,3
+16,Univ. of California - Santa Barbara,2.3,3
+18,Stony Brook University,2.2,3
+19,Johns Hopkins University,2.1,4
+19,North Carolina State University,2.1,4
+19,Univ. of California - Riverside,2.1,3
+19,Univ. of California - San Diego,2.1,4
+23,Duke University,2.0,4
+23,Harvard University,2.0,1
+23,Stevens Institute of Technology,2.0,2
+23,Texas A&M University,2.0,3
+23,Univ. of California - Irvine,2.0,3
+28,Massachusetts Institute of Technology,1.9,3
+29,Pennsylvania State University,1.8,2
+29,University of Chicago,1.8,3
+29,University of Florida,1.8,2
+29,University of North Carolina,1.8,2
+29,University of Southern California,1.8,1
+29,University of Virginia,1.8,2
+29,Yale University,1.8,2

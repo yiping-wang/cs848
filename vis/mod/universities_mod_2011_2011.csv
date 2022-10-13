@@ -1,0 +1,33 @@
+rank,Uni,count,n_faculty
+1,Univ. of California - Santa Barbara,5.1,4
+2,Duke University,4.4,5
+3,University of Wisconsin - Madison,3.1,2
+4,Pennsylvania State University,2.9,4
+5,Brown University,2.8,3
+5,Stanford University,2.8,2
+5,University of Pennsylvania,2.8,4
+8,Univ. of California - San Diego,2.7,3
+9,University of British Columbia,2.6,3
+10,Massachusetts Institute of Technology,2.5,5
+11,Univ. of Illinois at Urbana-Champaign,2.3,1
+11,University of Maryland - College Park,2.3,3
+13,Ohio State University,2.2,2
+13,University of Texas at Arlington,2.2,1
+15,Kent State University,2.1,2
+15,Worcester Polytechnic Institute,2.1,2
+17,Simon Fraser University,2.0,2
+17,Stony Brook University,2.0,2
+17,University of Waterloo,2.0,3
+20,University of Massachusetts Amherst,1.9,3
+20,University of Washington,1.9,2
+22,Boise State University,1.8,3
+22,Northeastern University,1.8,2
+22,Univ. of California - Berkeley,1.8,3
+22,University of Chicago,1.8,2
+26,Boston University,1.7,3
+26,Purdue University,1.7,2
+28,Florida State University,1.6,1
+28,George Mason University,1.6,2
+28,New York University,1.6,2
+28,Rutgers University,1.6,1
+28,University of Alberta,1.6,3

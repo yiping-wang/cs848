@@ -1,0 +1,32 @@
+rank,Uni,count,n_faculty
+1,Massachusetts Institute of Technology,3.7,7
+2,Univ. of California - Berkeley,3.1,5
+3,Georgia Institute of Technology,2.9,5
+3,University of Chicago,2.9,4
+5,Cornell University,2.7,2
+5,Pennsylvania State University,2.7,4
+5,Simon Fraser University,2.7,3
+5,University of Maryland - College Park,2.7,2
+5,University of Washington,2.7,4
+10,University of Massachusetts Amherst,2.5,4
+10,University of Waterloo,2.5,5
+12,Carnegie Mellon University,2.4,2
+12,Worcester Polytechnic Institute,2.4,3
+14,Duke University,2.2,3
+14,Univ. of California - San Diego,2.2,4
+14,University of Pennsylvania,2.2,3
+14,University of Wisconsin - Madison,2.2,5
+18,Stanford University,2.1,4
+19,University of Massachusetts Lowell,2.0,1
+19,University of Michigan,2.0,2
+21,University at Buffalo,1.9,2
+22,Harvard University,1.8,1
+22,University of Illinois at Chicago,1.8,1
+22,University of Texas at Arlington,1.8,2
+25,Boston University,1.7,2
+25,Case Western Reserve University,1.7,1
+25,Purdue University,1.7,2
+25,University of Victoria,1.7,2
+25,York University,1.7,2
+30,Ohio State University,1.6,3
+30,University of Florida,1.6,2

@@ -1,0 +1,31 @@
+rank,Uni,count,n_faculty
+1,University of Washington,10.9,8
+2,Univ. of California - Los Angeles,10.1,6
+3,Carnegie Mellon University,10.0,13
+4,University of North Carolina,9.2,5
+5,University of Michigan,9.1,8
+6,Univ. of Illinois at Urbana-Champaign,8.6,7
+7,Georgia Institute of Technology,8.1,9
+8,Univ. of California - San Diego,7.6,8
+9,University of Southern California,7.3,5
+10,University of Texas at Austin,6.7,6
+11,Columbia University,6.5,7
+11,Stanford University,6.5,10
+13,Cornell University,6.3,5
+13,University of Pennsylvania,6.3,5
+15,University of Massachusetts Amherst,6.2,5
+16,University of Maryland - College Park,5.8,7
+17,Princeton University,5.2,2
+18,University of Illinois at Chicago,5.1,5
+19,Johns Hopkins University,4.9,4
+20,Massachusetts Institute of Technology,4.6,4
+20,Univ. of California - Santa Barbara,4.6,3
+22,Univ. of California - Berkeley,4.0,9
+23,Ohio State University,3.8,7
+23,University of Oregon,3.8,2
+25,New York University,3.7,4
+25,University of Utah,3.7,3
+25,University of Waterloo,3.7,5
+28,Univ. of California - Irvine,3.6,2
+29,Northeastern University,3.5,4
+30,University of Arizona,3.4,3

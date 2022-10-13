@@ -1,0 +1,32 @@
+rank,Uni,count,n_faculty
+1,Univ. of California - San Diego,6.3,8
+2,Univ. of California - Irvine,3.8,3
+3,Duke University,3.6,3
+4,Northwestern University,3.1,5
+5,Arizona State University,2.7,3
+6,University of Notre Dame,2.6,4
+6,University of Pittsburgh,2.6,3
+8,Northeastern University,2.5,3
+9,Univ. of California - Riverside,2.4,4
+10,Washington State University,2.3,4
+11,Univ. of Illinois at Urbana-Champaign,2.2,3
+12,University of Texas at Austin,2.1,1
+13,Cornell University,2.0,3
+13,New York University,2.0,2
+13,University of Central Florida,2.0,1
+13,University of Maryland - College Park,2.0,1
+17,Pennsylvania State University,1.9,4
+17,Texas A&M University,1.9,1
+19,Columbia University,1.8,3
+19,George Mason University,1.8,3
+19,Univ. of California - Berkeley,1.8,3
+19,Univ. of California - Santa Barbara,1.8,2
+19,University of Southern California,1.8,2
+24,Univ. of California - Davis,1.7,2
+25,Univ. of California - Los Angeles,1.6,1
+25,University of Waterloo,1.6,2
+27,Georgia Institute of Technology,1.5,1
+27,Massachusetts Institute of Technology,1.5,1
+27,Univ. of California - Santa Cruz,1.5,1
+27,University of North Carolina,1.5,1
+27,University of Pennsylvania,1.5,1

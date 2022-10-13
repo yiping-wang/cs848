@@ -1,0 +1,32 @@
+rank,Uni,count,n_faculty
+1,University of Pittsburgh,8.0,7
+2,Carnegie Mellon University,7.6,14
+3,Univ. of California - Los Angeles,5.7,10
+4,Arizona State University,5.5,10
+5,Cornell University,5.3,7
+6,Harvard University,5.2,4
+6,Northeastern University,5.2,10
+8,University of Alberta,5.1,10
+8,Washington University in St. Louis,5.1,6
+10,Rutgers University,4.7,8
+10,University of Southern California,4.7,8
+12,University of Texas at Austin,4.4,6
+13,University of Rochester,4.3,7
+14,University of Maryland - College Park,4.1,7
+15,University of Virginia,3.8,6
+16,University of Toronto,3.7,5
+17,Pennsylvania State University,3.5,7
+18,University of Michigan,3.4,7
+19,Massachusetts Institute of Technology,3.3,7
+19,University of Massachusetts Amherst,3.3,4
+21,Purdue University,3.2,6
+21,Univ. of California - Irvine,3.2,3
+21,Univ. of Illinois at Urbana-Champaign,3.2,6
+21,University of Illinois at Chicago,3.2,4
+25,New York University,3.1,6
+25,University of Texas at Dallas,3.1,5
+27,Columbia University,3.0,3
+27,Emory University,3.0,4
+27,Stanford University,3.0,2
+27,Univ. of California - Berkeley,3.0,6
+27,University at Buffalo,3.0,5

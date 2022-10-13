@@ -1,0 +1,31 @@
+rank,Uni,count,n_faculty
+1,Carnegie Mellon University,5.8,7
+2,Univ. of Illinois at Urbana-Champaign,3.8,8
+3,Univ. of California - San Diego,3.0,3
+4,Purdue University,2.9,4
+5,Cornell University,2.6,5
+6,Massachusetts Institute of Technology,2.5,4
+6,University of Pennsylvania,2.5,6
+8,New York University,2.1,2
+9,Rutgers University,2.0,3
+9,University of Maryland - College Park,2.0,3
+11,Colorado State University,1.8,1
+11,Indiana University,1.8,2
+11,University of Iowa,1.8,1
+11,University of Massachusetts Amherst,1.8,3
+11,University of Southern California,1.8,2
+11,University of Texas at Austin,1.8,2
+11,University of Wisconsin - Madison,1.8,2
+18,Pennsylvania State University,1.7,3
+18,Univ. of California - Berkeley,1.7,3
+18,University of Chicago,1.7,3
+18,University of Washington,1.7,2
+22,University of Toronto,1.6,2
+22,University of Waterloo,1.6,2
+24,Princeton University,1.5,1
+24,Rice University,1.5,1
+24,Stanford University,1.5,2
+24,Univ. of California - Riverside,1.5,1
+24,University of Michigan,1.5,2
+24,University of Oklahoma,1.5,1
+24,Yale University,1.5,2

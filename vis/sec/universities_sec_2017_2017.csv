@@ -1,0 +1,33 @@
+rank,Uni,count,n_faculty
+1,Georgia Institute of Technology,7.5,12
+2,Cornell University,4.3,7
+3,Univ. of California - San Diego,4.1,8
+4,University of Maryland - College Park,3.9,5
+5,Texas A&M University,3.6,6
+5,Univ. of California - Berkeley,3.6,3
+5,University of Michigan,3.6,8
+8,Pennsylvania State University,3.5,5
+9,Northeastern University,3.2,7
+9,Stony Brook University,3.2,6
+11,Columbia University,3.1,6
+11,Purdue University,3.1,8
+13,University of Waterloo,3.0,5
+14,Univ. of California - Riverside,2.9,5
+15,Carnegie Mellon University,2.8,9
+15,Indiana University,2.8,5
+15,New York University,2.8,8
+15,University of Washington,2.8,3
+19,Arizona State University,2.7,4
+19,Univ. of California - Santa Barbara,2.7,3
+21,University of Florida,2.4,5
+22,Johns Hopkins University,2.3,3
+22,Univ. of Illinois at Urbana-Champaign,2.3,5
+22,University of Chicago,2.3,5
+25,Florida State University,2.0,3
+25,George Washington University,2.0,3
+25,Northwestern University,2.0,2
+25,Oregon State University,2.0,2
+25,University of Massachusetts Amherst,2.0,3
+25,University of Texas at Arlington,2.0,3
+25,University of Texas at Dallas,2.0,4
+25,Virginia Tech,2.0,5

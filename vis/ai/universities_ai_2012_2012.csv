@@ -1,0 +1,31 @@
+rank,Uni,count,n_faculty
+1,University of Alberta,5.8,10
+2,Carnegie Mellon University,5.5,8
+3,Harvard University,4.5,4
+4,Univ. of California - Los Angeles,4.3,4
+5,University of Massachusetts Amherst,3.5,5
+6,Pennsylvania State University,3.3,3
+7,University of Michigan,3.0,3
+8,Cornell University,2.7,5
+8,University of British Columbia,2.7,3
+10,University of Rochester,2.6,2
+10,University of Waterloo,2.6,5
+10,Washington University in St. Louis,2.6,4
+13,University of Texas at Dallas,2.3,4
+13,University of Toronto,2.3,2
+15,Temple University,2.2,2
+16,Arizona State University,2.0,3
+16,Carleton University,2.0,1
+16,Northwestern University,2.0,1
+16,University of Nebraska - Omaha,2.0,1
+16,University of Southern California,2.0,3
+21,Texas A&M University,1.9,2
+21,University of Washington,1.9,3
+23,Iowa State University,1.8,1
+23,Rensselaer Polytechnic Institute,1.8,1
+23,Univ. of California - Santa Cruz,1.8,2
+23,Univ. of Illinois at Urbana-Champaign,1.8,2
+23,University of Colorado Boulder,1.8,2
+23,University of Southern Mississippi,1.8,1
+29,Georgia Institute of Technology,1.7,2
+29,Oregon State University,1.7,2

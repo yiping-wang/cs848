@@ -1,0 +1,32 @@
+rank,Uni,count,n_faculty
+1,Stanford University,5.0,7
+2,University of Toronto,4.3,5
+3,Massachusetts Institute of Technology,3.9,7
+3,Univ. of California - San Diego,3.9,6
+5,Simon Fraser University,3.8,7
+6,Carnegie Mellon University,3.5,3
+7,Cornell University,2.9,3
+8,University of British Columbia,2.8,3
+9,Univ. of California - Berkeley,2.6,5
+10,Ohio State University,2.3,1
+11,New York University,2.2,3
+12,University of Montreal,2.0,1
+12,University of Washington,2.0,4
+14,California Institute of Technology,1.9,2
+14,University of Maryland - College Park,1.9,3
+16,Clemson University,1.8,3
+16,Columbia University,1.8,1
+16,University of Southern California,1.8,2
+19,University of Waterloo,1.7,2
+19,University of Wisconsin - Madison,1.7,1
+21,University of Pennsylvania,1.6,2
+21,Yale University,1.6,1
+23,Boston University,1.5,1
+23,Georgia Institute of Technology,1.5,1
+23,McGill University,1.5,1
+23,Univ. of California - Santa Barbara,1.5,2
+23,University of Massachusetts Amherst,1.5,2
+23,University of Utah,1.5,2
+23,Washington University in St. Louis,1.5,1
+30,Carleton University,1.4,1
+30,Wayne State University,1.4,2

@@ -1,0 +1,36 @@
+rank,Uni,count,n_faculty
+1,Univ. of California - Santa Barbara,2.5,5
+1,University of Toronto,2.5,5
+1,University of Wisconsin - Madison,2.5,5
+4,Univ. of California - Berkeley,2.4,3
+5,Columbia University,2.2,5
+6,University of Washington,2.0,3
+7,Stanford University,1.9,4
+7,University of Michigan,1.9,3
+7,University of Pennsylvania,1.9,5
+10,Carnegie Mellon University,1.8,3
+10,Princeton University,1.8,3
+10,University of Texas at Austin,1.8,3
+13,Virginia Tech,1.7,1
+14,Georgia Institute of Technology,1.5,1
+14,Massachusetts Institute of Technology,1.5,3
+14,Purdue University,1.5,3
+14,Univ. of California - San Diego,1.5,4
+18,Cornell University,1.4,2
+18,New York University,1.4,2
+20,Rutgers University,1.3,2
+20,Univ. of Illinois at Urbana-Champaign,1.3,1
+20,University of Chicago,1.3,2
+20,University of Waterloo,1.3,1
+20,Yale University,1.3,2
+25,Univ. of California - Los Angeles,1.2,2
+25,University of British Columbia,1.2,1
+27,Boston College,1.1,1
+27,Lehigh University,1.1,1
+27,Pennsylvania State University,1.1,1
+27,Rice University,1.1,1
+27,Simon Fraser University,1.1,1
+27,Stony Brook University,1.1,1
+27,Syracuse University,1.1,1
+27,University of Nevada,1.1,1
+27,University of Utah,1.1,1

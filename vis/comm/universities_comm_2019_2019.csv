@@ -1,0 +1,34 @@
+rank,Uni,count,n_faculty
+1,Massachusetts Institute of Technology,3.3,5
+2,Carnegie Mellon University,2.5,5
+2,Univ. of California - Berkeley,2.5,3
+4,Stanford University,2.3,6
+4,University of Texas at Austin,2.3,2
+6,University of Washington,2.2,4
+7,University of Southern California,2.1,2
+8,University of Chicago,2.0,5
+9,Georgia Institute of Technology,1.8,5
+9,University of Wisconsin - Madison,1.8,3
+11,Cornell University,1.7,3
+11,Harvard University,1.7,2
+11,Univ. of California - San Diego,1.7,2
+14,Princeton University,1.6,2
+15,Rice University,1.5,2
+15,University of Maryland - College Park,1.5,2
+15,University of North Carolina,1.5,1
+15,Yale University,1.5,2
+19,Northeastern University,1.4,2
+20,Columbia University,1.3,2
+20,Univ. of California - Los Angeles,1.3,1
+20,Univ. of Illinois at Urbana-Champaign,1.3,2
+20,University of Massachusetts Amherst,1.3,2
+20,University of Michigan,1.3,2
+20,University of Nebraska,1.3,1
+20,University of Pennsylvania,1.3,1
+20,University of Virginia,1.3,1
+28,Brown University,1.2,1
+28,New York University,1.2,1
+28,Ohio State University,1.2,1
+28,Purdue University,1.2,1
+28,Univ. of California - Irvine,1.2,1
+28,Virginia Tech,1.2,1

@@ -1,0 +1,31 @@
+rank,Uni,count,n_faculty
+1,University of British Columbia,4.5,6
+2,Carnegie Mellon University,4.0,4
+3,Univ. of California - Davis,3.5,2
+4,University of Washington,2.8,4
+5,University of Waterloo,2.7,5
+6,University of Texas at Dallas,2.6,2
+7,Purdue University,2.4,4
+8,Concordia University,2.3,5
+8,University of Colorado Boulder,2.3,2
+10,Iowa State University,2.2,3
+10,University of Delaware,2.2,2
+10,University of Nebraska,2.2,3
+13,Columbia University,2.1,2
+14,Univ. of Illinois at Urbana-Champaign,2.0,2
+15,Pennsylvania State University,1.9,3
+15,Univ. of California - San Diego,1.9,3
+15,Univ. of California - Santa Barbara,1.9,3
+18,Dalhousie University,1.8,1
+18,George Mason University,1.8,2
+18,Georgia Institute of Technology,1.8,2
+18,University of Massachusetts Amherst,1.8,1
+22,North Carolina State University,1.7,1
+22,University of Southern California,1.7,2
+22,University of Virginia,1.7,2
+25,McGill University,1.5,1
+25,Northeastern University,1.5,1
+25,Simon Fraser University,1.5,2
+25,Univ. of California - Los Angeles,1.5,1
+25,University of Chicago,1.5,2
+25,University of Notre Dame,1.5,2

@@ -1,0 +1,33 @@
+rank,Uni,count,n_faculty
+1,Michigan State University,3.8,8
+2,University of Massachusetts Amherst,3.2,4
+3,Purdue University,2.5,3
+4,Columbia University,2.2,2
+5,Univ. of California - San Diego,2.0,3
+5,University at Buffalo,2.0,5
+7,Georgia Institute of Technology,1.8,3
+7,University of Michigan,1.8,6
+9,Duke University,1.7,2
+9,Univ. of California - Los Angeles,1.7,2
+9,Univ. of Illinois at Urbana-Champaign,1.7,4
+12,Princeton University,1.6,2
+12,University of Utah,1.6,2
+14,Massachusetts Institute of Technology,1.5,3
+14,Ohio State University,1.5,1
+14,Simon Fraser University,1.5,2
+14,University of Minnesota,1.5,2
+14,Worcester Polytechnic Institute,1.5,1
+19,Stony Brook University,1.4,2
+19,Univ. of California - Irvine,1.4,2
+21,Carnegie Mellon University,1.3,1
+21,Rutgers University,1.3,2
+21,Temple University,1.3,1
+21,Univ. of California - Merced,1.3,1
+21,University of Georgia,1.3,1
+21,University of Maryland - College Park,1.3,1
+21,University of North Carolina,1.3,1
+21,University of South Florida,1.3,1
+21,University of Tennessee,1.3,1
+21,University of Virginia,1.3,2
+21,University of Washington,1.3,1
+21,University of Waterloo,1.3,1

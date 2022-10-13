@@ -1,0 +1,33 @@
+rank,Uni,count,n_faculty
+1,University of Michigan,5.5,8
+2,Univ. of Illinois at Urbana-Champaign,4.4,6
+3,Pennsylvania State University,3.3,6
+4,Stanford University,3.2,5
+4,University of Chicago,3.2,5
+6,University of Toronto,3.1,7
+7,Massachusetts Institute of Technology,3.0,3
+8,University of Washington,2.9,7
+9,University of Wisconsin - Madison,2.8,4
+10,Stony Brook University,2.6,4
+11,Cornell University,2.5,4
+11,Univ. of California - Riverside,2.5,3
+11,University of Texas at Austin,2.5,5
+14,Princeton University,2.4,2
+15,University of British Columbia,2.3,3
+15,University of Virginia,2.3,5
+17,Georgia Institute of Technology,2.2,4
+18,Univ. of California - Santa Barbara,2.1,2
+19,Texas A&M University,2.0,3
+19,University of Pennsylvania,2.0,1
+21,North Carolina State University,1.9,3
+21,Purdue University,1.9,3
+21,Univ. of California - San Diego,1.9,3
+24,Carnegie Mellon University,1.7,3
+24,Simon Fraser University,1.7,3
+24,University of Colorado Boulder,1.7,2
+27,University of Utah,1.6,4
+28,Duke University,1.5,3
+28,Univ. of California - Berkeley,1.5,2
+28,Univ. of California - Los Angeles,1.5,1
+28,University of Southern California,1.5,1
+28,Yale University,1.5,2

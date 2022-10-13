@@ -1,0 +1,36 @@
+rank,Uni,count,n_faculty
+1,University of Washington,3.8,3
+2,Case Western Reserve University,3.6,2
+3,Univ. of California - Berkeley,3.2,7
+4,University of Pennsylvania,2.6,5
+5,Univ. of California - Santa Barbara,2.4,4
+5,University of Wisconsin - Madison,2.4,5
+7,Duke University,2.3,4
+7,University of Maryland - College Park,2.3,2
+9,Carnegie Mellon University,2.2,4
+9,Ohio State University,2.2,3
+11,Massachusetts Institute of Technology,2.1,4
+11,Univ. of Illinois at Urbana-Champaign,2.1,2
+13,Univ. of California - Los Angeles,2.0,2
+13,University of Massachusetts Amherst,2.0,2
+13,University of Michigan,2.0,2
+16,University of Chicago,1.9,3
+16,University of Texas at Arlington,1.9,2
+18,Rice University,1.8,3
+18,Univ. of California - Santa Cruz,1.8,3
+20,Boston University,1.7,3
+20,George Mason University,1.7,1
+20,Harvard University,1.7,1
+20,Kent State University,1.7,1
+20,Univ. of California - San Diego,1.7,2
+20,York University,1.7,2
+26,Pennsylvania State University,1.6,1
+26,Purdue University,1.6,2
+26,Simon Fraser University,1.6,1
+29,Brown University,1.5,2
+29,Rensselaer Polytechnic Institute,1.5,2
+29,Stanford University,1.5,2
+29,Stony Brook University,1.5,4
+29,Univ. of California - Irvine,1.5,3
+29,University of Alberta,1.5,1
+29,University of Massachusetts Lowell,1.5,1

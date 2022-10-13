@@ -1,0 +1,45 @@
+rank,Uni,count,n_faculty
+1,Harvard University,6.1,5
+2,Carnegie Mellon University,4.8,5
+3,Univ. of California - Los Angeles,3.6,4
+4,University of Alberta,3.5,7
+5,Rensselaer Polytechnic Institute,3.0,1
+5,University of British Columbia,3.0,3
+7,University of Massachusetts Amherst,2.9,3
+8,Oregon State University,2.6,4
+8,University of Southern California,2.6,3
+10,University of Michigan,2.5,2
+11,Cornell University,2.4,3
+12,University of Texas at Austin,2.3,3
+13,University of Pittsburgh,2.2,2
+14,Arizona State University,2.0,3
+14,Massachusetts Institute of Technology,2.0,1
+14,New York University,2.0,1
+14,Texas A&M University,2.0,1
+14,University of Maryland - College Park,2.0,3
+14,University of Texas at Dallas,2.0,1
+14,University of Toronto,2.0,2
+21,Brown University,1.8,2
+21,Pennsylvania State University,1.8,3
+21,University of Louisiana - Lafayette,1.8,1
+21,University of Rochester,1.8,2
+25,Colorado School of Mines,1.7,1
+25,New Mexico State University,1.7,2
+25,Stanford University,1.7,2
+25,Université Laval,1.7,2
+25,Washington University in St. Louis,1.7,2
+30,Brigham Young University,1.5,2
+30,Carleton University,1.5,1
+30,Columbia University,1.5,1
+30,Illinois Institute of Technology,1.5,1
+30,Indiana University,1.5,1
+30,Michigan Technological University,1.5,1
+30,Northwestern University,1.5,1
+30,Princeton University,1.5,1
+30,Simmons University,1.5,1
+30,Univ. of California - Davis,1.5,1
+30,Univ. of California - Irvine,1.5,1
+30,Univ. of California - Santa Cruz,1.5,1
+30,Univ. of Illinois at Urbana-Champaign,1.5,1
+30,University of Colorado Boulder,1.5,1
+30,University of Waterloo,1.5,1

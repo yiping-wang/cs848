@@ -1,0 +1,32 @@
+rank,Uni,count,n_faculty
+1,Cornell University,3.7,6
+2,University of Waterloo,3.1,4
+3,Univ. of Illinois at Urbana-Champaign,3.0,9
+4,Carnegie Mellon University,2.8,5
+5,Rutgers University,2.6,3
+6,Univ. of California - Santa Cruz,2.5,3
+6,University of Massachusetts Amherst,2.5,3
+8,University of Virginia,2.3,5
+9,Georgia Institute of Technology,2.1,4
+9,University of Michigan,2.1,4
+11,Univ. of California - Santa Barbara,2.0,4
+12,Arizona State University,1.9,3
+12,Stanford University,1.9,3
+14,University of Southern California,1.8,3
+14,University of Washington,1.8,2
+16,Duke University,1.7,2
+17,Boston University,1.6,3
+17,Purdue University,1.6,3
+17,Stony Brook University,1.6,1
+17,University of Utah,1.6,1
+21,Ohio State University,1.5,1
+21,Texas A&M University,1.5,2
+23,George Mason University,1.4,2
+23,Illinois Institute of Technology,1.4,2
+23,Michigan State University,1.4,1
+23,Northeastern University,1.4,2
+23,Rice University,1.4,1
+23,Simon Fraser University,1.4,1
+23,Univ. of California - San Diego,1.4,3
+23,University of Illinois at Chicago,1.4,2
+23,University of Ottawa,1.4,2

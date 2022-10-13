@@ -1,0 +1,31 @@
+rank,Uni,count,n_faculty
+1,Cornell University,3.4,4
+2,Northeastern University,2.8,2
+3,University of Maryland - College Park,2.5,3
+4,University of Washington,2.3,2
+5,Massachusetts Institute of Technology,2.2,1
+5,Univ. of California - Los Angeles,2.2,2
+5,University of Texas at Austin,2.2,2
+8,New York University,2.1,2
+8,Univ. of California - Berkeley,2.1,2
+10,Georgia Institute of Technology,2.0,1
+10,Purdue University,2.0,2
+10,Univ. of California - San Diego,2.0,2
+10,University of Michigan,2.0,1
+14,Carnegie Mellon University,1.8,2
+15,Brown University,1.7,1
+15,University of Connecticut,1.7,2
+15,University of Rochester,1.7,1
+18,Johns Hopkins University,1.6,2
+18,Yale University,1.6,2
+20,Florida Atlantic University,1.5,1
+20,Florida State University,1.5,1
+20,Texas A&M University,1.5,1
+20,Univ. of Illinois at Urbana-Champaign,1.5,1
+20,University of Chicago,1.5,2
+20,University of Florida,1.5,1
+26,Arizona State University,1.3,1
+26,Boston University,1.3,1
+26,California Institute of Technology,1.3,1
+26,Oregon State University,1.3,1
+26,Portland State University,1.3,1

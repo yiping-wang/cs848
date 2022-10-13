@@ -1,0 +1,31 @@
+rank,Uni,count,n_faculty
+1,University of Washington,3.8,3
+2,Northeastern University,2.8,3
+3,Duke University,2.7,5
+3,Univ. of California - Berkeley,2.7,4
+3,Univ. of California - Santa Barbara,2.7,6
+3,University of Waterloo,2.7,6
+7,Massachusetts Institute of Technology,2.6,4
+7,Simon Fraser University,2.6,4
+7,University of British Columbia,2.6,2
+10,Georgia Institute of Technology,2.5,4
+10,University of Texas at Arlington,2.5,1
+10,University of Victoria,2.5,3
+13,Brown University,2.4,3
+13,Pennsylvania State University,2.4,3
+13,University of Massachusetts Amherst,2.4,4
+16,Carnegie Mellon University,2.2,3
+16,University of Michigan,2.2,3
+16,University of Wisconsin - Madison,2.2,1
+19,Columbia University,2.1,3
+20,Case Western Reserve University,2.0,3
+20,Cornell University,2.0,3
+20,Univ. of California - San Diego,2.0,4
+20,University of Chicago,2.0,3
+24,Univ. of California - Irvine,1.8,2
+24,Univ. of California - Santa Cruz,1.8,2
+24,Worcester Polytechnic Institute,1.8,2
+27,Ohio State University,1.7,2
+27,University of Maryland - College Park,1.7,2
+29,Arizona State University,1.6,3
+29,Kent State University,1.6,2
